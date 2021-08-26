@@ -1,0 +1,12 @@
+{
+  countries: [{"name":"Scotland",
+              "imagePath":"https://raw.githubusercontent.com/i-ritchie/country-list/2645b79dae2d984d2297b3543148acad112d2197/scotland.jpg",
+              "population":"5,000,000"
+              "currency":"GBP"
+              "information":"The best country"},
+              {"name":"England",
+              imagePath":""https://raw.githubusercontent.com/i-ritchie/country-list/7ea3837eeaef2baa4f7560cb45c241cfb13b0647/england.jpg",
+              "population":"70,000,000"
+              "currency":"GBP"
+              "information":"this is some information about this country that i have yet to write down"}]
+}
