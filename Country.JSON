@@ -1,6 +1,6 @@
 {
   "countries" : {
-    "001":{name":"Scotland",
+    "001":{"name":"Scotland",
            "imagePath":"https://raw.githubusercontent.com/i-ritchie/country-list/2645b79dae2d984d2297b3543148acad112d2197/scotland.jpg",
            "population":"5,000,000",
            "currency":"GBP",
